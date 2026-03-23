@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/N1shant007/my-portfolio.git/static/css/main.b3724361.css",
+    "main.js": "/N1shant007/my-portfolio.git/static/js/main.32b5e40d.js",
+    "static/js/453.b05d8aa5.chunk.js": "/N1shant007/my-portfolio.git/static/js/453.b05d8aa5.chunk.js",
+    "static/media/nishant.png": "/N1shant007/my-portfolio.git/static/media/nishant.52344598a59b699c03e2.png",
+    "static/media/bg-light.png": "/N1shant007/my-portfolio.git/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/N1shant007/my-portfolio.git/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/N1shant007/my-portfolio.git/index.html",
+    "main.b3724361.css.map": "/N1shant007/my-portfolio.git/static/css/main.b3724361.css.map",
+    "main.32b5e40d.js.map": "/N1shant007/my-portfolio.git/static/js/main.32b5e40d.js.map",
+    "453.b05d8aa5.chunk.js.map": "/N1shant007/my-portfolio.git/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3724361.css",
+    "static/js/main.32b5e40d.js"
+  ]
+}
